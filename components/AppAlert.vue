@@ -1,5 +1,5 @@
 <template>
   <div>
-    <h2>Ini ceritanya komponen Alert</h2>
+    <h2 class="text-white">Ini ceritanya komponen Alert</h2>
   </div>
 </template>
